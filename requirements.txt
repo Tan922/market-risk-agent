@@ -1,0 +1,13 @@
+# Core
+fastapi==0.115.2
+uvicorn==0.30.0
+pydantic==2.8.2
+
+# AI / LangChain / LLM
+langgraph==1.0.3
+langchain==1.0.3         # matches langgraph dependency
+faiss-cpu==1.8.0
+transformers==4.44.0
+torch==2.3.1
+huggingface-hub==0.24.6
+

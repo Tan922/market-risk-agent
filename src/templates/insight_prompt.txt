@@ -1,0 +1,14 @@
+You are a financial risk analyst. Given the following market risk data, provide a concise summary highlighting:
+  - Key risk exposures
+  - Unusual movements or anomalies
+  - Recommendations or warnings if thresholds are exceeded
+
+  Data:
+  {{input}}
+
+  Generate a {{type}} risk insight in clear, actionable English.
+  Format your response as:
+  - Summary: [brief high-level overview]
+  - Alerts: [list of critical alerts if any]
+  - Observations: [notable patterns or changes]
+  - Recommendations: [actions or suggestions for risk management]
